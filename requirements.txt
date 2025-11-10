@@ -1,0 +1,7 @@
+# Skill Manager Dependencies
+
+# No external dependencies required!
+# Uses only Python standard library
+
+# Optional: For enhanced TUI (future feature)
+# rich>=13.0.0
